@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" duration="44.017767899999996" testcasecount="2" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-11-05T 12:41:16Z" end-time="2021-11-05T 12:42:00Z">
+  <test-suite type="Assembly" name="banque-csharp-selenium-cp.dll" fullname="C:\Users\Administrateur\TpTest\banque-csharp-selenium-cp\bin\Debug\netcoreapp3.0\banque-csharp-selenium-cp.dll" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-11-05T 12:41:16Z" end-time="2021-11-05T 12:42:00Z" duration="44.017767899999996">
+    <test-suite type="TestSuite" name="UnknownNamespace" fullname="UnknownNamespace" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-11-05T 12:41:16Z" end-time="2021-11-05T 12:42:00Z" duration="44.017767899999996">
+      <test-suite type="TestFixture" name="NavigationPrincipaleTest" fullname="UnknownNamespace.NavigationPrincipaleTest" total="2" passed="2" failed="0" inconclusive="0" skipped="0" result="Passed" start-time="2021-11-05T 12:41:16Z" end-time="2021-11-05T 12:42:00Z" duration="44.017767899999996">
+        <test-case name="navigationPrincipaleChrome" fullname="UnknownNamespace.NavigationPrincipaleTest.navigationPrincipaleChrome" methodname="navigationPrincipaleChrome" classname="NavigationPrincipaleTest" result="Passed" start-time="2021-11-05T 12:41:16Z" end-time="2021-11-05T 12:41:18Z" duration="1.767429" asserts="0" />
+        <test-case name="navigationPrincipaleFirefox" fullname="UnknownNamespace.NavigationPrincipaleTest.navigationPrincipaleFirefox" methodname="navigationPrincipaleFirefox" classname="NavigationPrincipaleTest" result="Passed" start-time="2021-11-05T 12:41:18Z" end-time="2021-11-05T 12:42:00Z" duration="42.250338899999996" asserts="0" />
+      </test-suite>
+    </test-suite>
+    <errors />
+  </test-suite>
+</test-run>
